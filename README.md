@@ -24,7 +24,6 @@ and user adoption.
 - Emails are not effective at improving user adoption, so we need to extend the analysis on other messaging platforms
 to test which other communication channels can do a better job at engaging users (push, in-app messaging, etc.)
 - Since the high growth rate in 2014 greatly impact the user engagement and adoption, we can expand the analysis to
-find key success indicators on user actions or product features that best pivot growth and adoption rate during
-2014.
+find key success indicators on user actions or product features that best pivot growth and adoption rate during 2014.
 - Regarding further exploration, I am keen on exploring (1) Does the size of members in an organization affect adoption
 rate? (2) Which actions do a team or an individual took that best indicate adoption rate?
