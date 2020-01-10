@@ -14,9 +14,9 @@ For the privacy of the data, I will only make the dataset visible in this Jupyte
 
 - Investigate user journey for each demographic (Guest vs Full Member) to detect drop-off points and troubleshoot.
 - Optimize the on-boarding experience that is tailored for different demographics.
-→ Especially, for Personal Project sign-ups , we can prompt these users to create their own project so they will
+  - Especially, for Personal Project sign-ups , we can prompt these users to create their own project so they will
 continue to use Asana even after finishing working on other's project.
-→ Encourage Full Member to explore other premium features on Asana other than their cross-team projects so they
+  - Encourage Full Member to explore other premium features on Asana other than their cross-team projects so they
 can create their own documentation/plans for their individual or team work.
 - As the likelihood of adopted users for Google sign-ups are the highest, we should expand this fast and seamless
 sign-up experience more by partnering with Facebook, Linkedin, Outlook, etc. to accelerate more sign-up growth rate
