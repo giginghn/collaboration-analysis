@@ -4,7 +4,7 @@ This is a case study on collaboration tool company that helps teams or individua
 
 ## Case Study
 
-The company defines an "adopted user" as a user who has logged into the product on three separate days in at least one seven-day period. Because the company believes that adopted users are more likely to be successful at using the collaboration tool in the long term than those that are not adopted, the company wants to know what things are likely indicators of future adoption. With this in mind, we'd like you to identify which factors predict user adoption.
+For this case study, I will look into user adoption. The company defines an "adopted user" as a user who has logged into the product on three separate days in at least one seven-day period. I believe that adopted users are more likely to be successful at using the collaboration tool in the long term than those that are not adopted, so I want to know what things are likely indicators of future adoption. With this in mind, I will identify which factors predict user adoption.
 
 My work will focus on improving this experience to increase adoption, so I'd like to know how successful the collaboration tool currently is at getting different types of users to adopt.
 
